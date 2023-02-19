@@ -5,6 +5,7 @@ public class Salam {
       System.out.println("Salam Dunya");
       System.out.println("Salam Techno Study");
       System.out.println("Menin Adim Java");
+      System.out.println("Menin Adim Memmed");
 
 
 
