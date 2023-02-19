@@ -1,0 +1,6 @@
+
+
+ Final
+       değişkenlerin başında olduğunda DEĞERİ sonradan değiştirilemez.
+       metdoların başında olduğunda OVERRIDE edilemezler
+       class ların başında olduğunda EXTEND edilemezler
