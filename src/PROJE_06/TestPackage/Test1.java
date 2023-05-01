@@ -1,4 +1,4 @@
-package PROJE06.TestPackage;
+package PROJE_06.TestPackage;
 
 
 

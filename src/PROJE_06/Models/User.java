@@ -41,7 +41,7 @@ public class User {
         this.city = HelperFunctions.checkCity(city);
         this.address = address;
         this.zipCode = HelperFunctions.checkZipCode(zipCode);
-        this.shippingTrackingNumber = null;
+        this.shippingTrackingNumber = HelperFunctions.generateShippingTrackingNumber(fullName,city,zipCode);
        ;
     }
 
